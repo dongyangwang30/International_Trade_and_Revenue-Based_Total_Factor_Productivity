@@ -1,4 +1,4 @@
-**********This do file is a detailed outline of the code I use for my honors thesis**********
+**********Data Analysis with the cleaned data**********
 
 use "/Users/Wdy/Desktop/Honors/cleaned1.dta"
 
