@@ -1,3 +1,5 @@
+**********Data Preparation and Cleaning**********
+
 *first I merged the data with the idstd
 
 clear
@@ -103,7 +105,6 @@ replace large_size = 0 if SIZE != "Large(100 And Over)"
 tabulate isic, generate(isic)
 
 summarize a3,d
-*!!!!!!!!!!!!problem: 1,6 unclear what it means
 
 replace b1=. if b1<0|b1>8
 tabulate b1, gen(legal_status)
