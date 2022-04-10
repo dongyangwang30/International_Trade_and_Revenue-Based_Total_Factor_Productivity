@@ -6,4 +6,4 @@ Economists concur that international trade is conducive to economic growth. Howe
 
 Here I have provided my thesis, the description of datasets I used for research (to follow the Data Access Protocol, I am not allowed to upload the datasets), and the graphs I created.
 
-We thank the Enterprise Analysis Unit of the Development Economics Global Indicators Department of the World Bank Group for making the data available.
+I thank the Enterprise Analysis Unit of the Development Economics Global Indicators Department of the World Bank Group for making the data available.
