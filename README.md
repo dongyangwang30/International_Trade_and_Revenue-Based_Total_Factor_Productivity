@@ -1,4 +1,4 @@
-# International_Trade_and_Revenue-Based_Total_Factor_Productivity
+# International Trade and Revenue-Based Total Factor Productivity: A Firm-Level Analysis
 
 This is the Honors Thesis project I completed in William & Mary towards my BA in Economics. I conducted independent research and data analysis to solve my research questions. The abstract is as follows:
 
